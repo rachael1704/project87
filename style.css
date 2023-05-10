@@ -1,0 +1,22 @@
+.body_backgorund 
+{
+    background-image:url(backg.jpg);
+    background-position:center;
+    background-size:cover;
+}
+#myCanvas
+{
+    border-width:10px;
+    background-color: white; 
+    border-style:ridge;
+}
+
+h3
+{
+	width: 1000px;
+	background-color: rgba(220, 21, 160, 0.905);
+    color:blueviolet;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+	display: inline-block;
+}
+
